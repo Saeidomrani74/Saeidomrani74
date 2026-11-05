@@ -3,7 +3,7 @@ Building [FieldSync](https://github.com/Saeidomrani74/fieldsync), an offline syn
 
 CI runs: [FieldSync CI](https://github.com/Saeidomrani74/fieldsync/actions/workflows/ci.yml)
 
-Case study: [AVA, a Flutter client I built alone](https://github.com/Saeidomrani74/portfolio/blob/main/case-studies/ava.md).
+Case study: [AVA, a Flutter client I built](https://github.com/Saeidomrani74/portfolio/blob/main/case-studies/ava.md).
 
  Web release tested in Chrome; Android installed on one device; iOS not tested;
 
